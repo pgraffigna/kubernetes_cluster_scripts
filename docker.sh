@@ -2,7 +2,6 @@
 GPG=https://download.docker.com/linux/ubuntu/gpg
 URL=https://download.docker.com/linux/ubuntu
 
-
 echo "++ Actualiza la cache de los repos ++"
 sudo apt-get -qq update
 
